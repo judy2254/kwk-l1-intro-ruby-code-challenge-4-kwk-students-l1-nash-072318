@@ -14,9 +14,13 @@ dressers = {
   :tops => ["tank tops","graphic tee","dress shirt","blouses"], 
   :bottoms => ["sweat pants", "shorts","skirts"],
   :swim_suits => ["high waisted","bikini","one piece","tankini"]
+  :footwear => {
+    :sneakers => ["nike","vans","addidas"],
+    :formal => ["dockers","mary jane","heels"],
   
+  }
 }
-print dressers[:swim_suits] [2] 
+print dressers[:formal] [0] 
 
 dressers[:tops]<< "birthday tee"
 print dressers [:tops]
