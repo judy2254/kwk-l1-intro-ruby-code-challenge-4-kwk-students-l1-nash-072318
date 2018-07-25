@@ -25,11 +25,6 @@ puts solution
 end
 
 
-
-  puts solution 
-
- end
- 
- least_coins(70)
+least_coins(852)
 
 
