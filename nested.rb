@@ -20,7 +20,7 @@ dressers = {
   
   }
 }
-print dressers[:formal] [0] 
+print dressers[:footwear] [0] 
 
 dressers[:tops]<< "birthday tee"
 print dressers [:tops]
