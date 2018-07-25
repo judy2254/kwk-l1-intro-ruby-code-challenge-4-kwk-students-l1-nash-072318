@@ -11,8 +11,8 @@ pants << "levis"
 print closet [0] [2]
 
 dressers = {
-  :tops => ["tank tops","graphic tee","dress shirt","blouses"] 
-  :bottoms => ["sweat pants", "shorts","skirts"]
+  :tops => ["tank tops","graphic tee","dress shirt","blouses"], 
+  :bottoms => ["sweat pants", "shorts","skirts"],
   :swim_suits => ["high waisted","bikini","one piece","tankini"]
   
 }
