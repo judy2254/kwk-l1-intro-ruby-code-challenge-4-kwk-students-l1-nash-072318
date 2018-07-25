@@ -17,3 +17,6 @@ dressers = {
   
 }
 print dressers[:swim_suits] [2] 
+
+dressers[:tops]<< "birthday tee"
+print dressers [:tops]
