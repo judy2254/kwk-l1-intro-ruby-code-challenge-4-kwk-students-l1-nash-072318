@@ -1,1 +1,1 @@
-closet =
+closet = [shirts,pants,jackets]
