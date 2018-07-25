@@ -22,7 +22,7 @@ solution[:pennies]=num_pennies
 
 puts solution
 
-
+end
 
 
 
