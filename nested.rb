@@ -16,4 +16,4 @@ dressers = {
   :swim_suits => ["high waisted","bikini","one piece","tankini"]
   
 }
-print dresser[:swim_suits] [2] 
+print dressers[:swim_suits] [2] 
