@@ -1,4 +1,4 @@
-least_coins
+lea
 
 def least_coins(cents)
 
