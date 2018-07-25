@@ -24,3 +24,5 @@ print dressers[:footwear] [formal] [0]
 
 dressers[:tops]<< "birthday tee"
 print dressers [:tops]
+
+
