@@ -4,7 +4,7 @@ pants = ["jeans","trousers"]
 jackets = ["jean","fur",]
 shoes = ["tennis","heels","boots" ]
 
-closet = ["shirts","pants","jackets"]
+closet = [shirts,pants,jackets]
 pants << "levis"
 
 #closet closet = ["crew","ankle","fuzzy"]
