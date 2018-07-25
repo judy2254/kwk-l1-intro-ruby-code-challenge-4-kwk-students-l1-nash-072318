@@ -24,7 +24,7 @@ print dressers[:footwear] [formal] [0]
 
 jadens = {
  :sudan_fam => {
- :married_woman => ["celstina","that uncle,"uncle P"]
+    :married_woman => ["celstina","that uncle","uncle P"],
  
  
 
