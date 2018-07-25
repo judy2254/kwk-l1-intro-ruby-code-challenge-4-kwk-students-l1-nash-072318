@@ -8,7 +8,7 @@ closet = [shirts,pants,jackets]
 pants << "levis"
 
 #closet closet = ["crew","ankle","fuzzy"]
-print closet [0] [2]
+#print closet [0] [2]
 
 dressers = {
   :tops => ["tank tops","graphic tee","dress shirt","blouses"], 
