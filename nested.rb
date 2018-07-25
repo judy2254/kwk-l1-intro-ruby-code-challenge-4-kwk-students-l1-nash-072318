@@ -20,7 +20,7 @@ dressers = {
   
   }
 }
-print dressers[:footwear] [formal] [0]
+#print dressers[:footwear] [formal] [0]
 
 jadens = {
  :sudan_fam => {
