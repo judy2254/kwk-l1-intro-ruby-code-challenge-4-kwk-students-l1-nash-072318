@@ -8,4 +8,4 @@ closet = ["shirts",pants jackets]
 pants << "levis"
 
 #closet closet = ["crew","ankle","fuzzy"]
-print closet[0]
+print closet[3]
