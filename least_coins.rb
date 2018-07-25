@@ -2,6 +2,6 @@
 
 def least_coins(cents)
 
-least_coins[]
+least_coins =[]
 
 end
