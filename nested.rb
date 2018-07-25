@@ -22,7 +22,10 @@ dressers = {
 }
 print dressers[:footwear] [formal] [0]
 
-dressers[:tops]<< "birthday tee"
-print dressers [:tops]
+jadens = {
+ :sudan_fam => {
+ :married_woman => ["celstina","that uncle,"uncle P"]
+ 
+ 
 
 
