@@ -3,12 +3,17 @@
 def least_coins(cents)
 solution = {}
  
- quarters = cents / 25
- solution[:quarters] = quarters 
- 
+ num_quarters = cents / 25
+ solution[:quarters] = num_quarters
+# solution = {quarters => number of quarters in amount of cents}
+
+cents = cents - 25*num_quarters
 num_dimes = cents/10 
 solution[:dimes]=num_dimes
-cents = cents - 25*num_quarters
+# solution = {quarters => number of quarters in amount of cents, dimes => number of dimes in remaining amount of cents}
+
+
+
 
   puts solution 
 
